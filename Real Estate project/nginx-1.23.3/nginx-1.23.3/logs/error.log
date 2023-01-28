@@ -1,0 +1,1 @@
+2023/01/28 12:17:22 [error] 1148#15932: *1 CreateFile() "C:\Users\admin\Desktop\Data Science Sasi kumar\Real Estate project\nginx-1.23.3\nginx-1.23.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
